@@ -1,0 +1,7 @@
+11-04-2023 21:59:33 - user_interface - INFO - start_menu - Главное меню
+11-04-2023 21:59:38 - user_interface - INFO - start_menu - Вход в меню Операции
+11-04-2023 21:59:41 - user_interface - INFO - menu_notes - Выбор операции - Показать все заметки
+11-04-2023 21:59:41 - user_interface - INFO - start_menu - Главное меню
+11-04-2023 22:00:10 - user_interface - INFO - start_menu - Вход в меню Операции
+11-04-2023 22:00:14 - user_interface - INFO - menu_notes - Выбор операции - Редактирование заметки
+11-04-2023 22:01:08 - operation - INFO - edit_notes - Содержание заметки с ID-a63 изменено
